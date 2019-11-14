@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>soft-bear.github.io/</loc>
+    <loc>https://soft-bear.github.io/blog/</loc>
     <lastmod>2019-11-14T13:24:26+09:00</lastmod>
   </url>
   
   <url>
-    <loc>soft-bear.github.io/post/</loc>
+    <loc>https://soft-bear.github.io/blog/post/</loc>
     <lastmod>2019-11-14T13:24:26+09:00</lastmod>
   </url>
   
   <url>
-    <loc>soft-bear.github.io/post/test/test/</loc>
+    <loc>https://soft-bear.github.io/blog/post/test/test/</loc>
     <lastmod>2019-11-14T13:24:26+09:00</lastmod>
   </url>
   
   <url>
-    <loc>soft-bear.github.io/categories/</loc>
+    <loc>https://soft-bear.github.io/blog/categories/</loc>
   </url>
   
   <url>
-    <loc>soft-bear.github.io/tags/</loc>
+    <loc>https://soft-bear.github.io/blog/tags/</loc>
   </url>
   
 </urlset>

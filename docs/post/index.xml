@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Minimal</title>
-    <link>soft-bear.github.io/post/</link>
-    <description>Recent content in Posts on Minimal</description>
+    <title>Posts on Mikumiku</title>
+    <link>https://soft-bear.github.io/blog/post/</link>
+    <description>Recent content in Posts on Mikumiku</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <lastBuildDate>Thu, 14 Nov 2019 13:24:26 +0900</lastBuildDate>
     
-	<atom:link href="soft-bear.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://soft-bear.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>soft-bear.github.io/post/test/test/</link>
+      <link>https://soft-bear.github.io/blog/post/test/test/</link>
       <pubDate>Thu, 14 Nov 2019 13:24:26 +0900</pubDate>
       
-      <guid>soft-bear.github.io/post/test/test/</guid>
+      <guid>https://soft-bear.github.io/blog/post/test/test/</guid>
       <description></description>
     </item>
     

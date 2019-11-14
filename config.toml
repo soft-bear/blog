@@ -1,18 +1,20 @@
-baseURL = "soft-bear.github.io"
-languageCode = "en-us"
-title = "Minimal"
+baseURL = "https://soft-bear.github.io/blog"
+languageCode = "ja-jp"
+title = "Mikumiku"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
+disqusShortname = "Softbear" # delete this to disable disqus comments
 googleAnalytics = ""
 publishDir = "docs"
+canonifyurls = true
+
 
 [params]
     author = "Calin Tataru"
     description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
+    githubUsername = "soft-bear"
     accent = "red"
     showBorder = true
-    backgroundColor = "white"
+    backgroundColor = "green"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
@@ -43,26 +45,16 @@ publishDir = "docs"
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:ban@natori.com"
     name = "envelope-o"
-    weight = 1
+    weight = 6
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/soft-bear/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/yawarakakuma3/"
     name = "twitter"
     weight = 3
-
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
