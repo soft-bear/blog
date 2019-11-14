@@ -1,17 +1,17 @@
 baseURL = "https://soft-bear.github.io/blog"
 languageCode = "ja-jp"
-title = "Mikumiku"
+title = "Forest of Bear"
 theme = "minimal"
-disqusShortname = "softbear.disqus.com" # delete this to disable disqus comments
+disqusShortname = "softbear" # delete this to disable disqus comments
 googleAnalytics = ""
 publishDir = "docs"
 canonifyurls = true
 
 [params]
     author = "Softbear"
-    description = "Softbear 2019-2019"
+    description = "Believe my way! Go ahead!"
     githubUsername = "soft-bear"
-    accent = "red"
+    accent = "green"
     showBorder = true
     backgroundColor = "white"
     font = "Sawarabi+Gothic" # should match the name on Google Fonts!
@@ -33,11 +33,6 @@ canonifyurls = true
     url = "/post/"
     name = "Posts"
     weight = 3
-
-[[menu.main]]
-    url = "/project/"
-    name = "Projects"
-    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
