@@ -9,13 +9,13 @@ canonifyurls = true
 
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    author = "Softbear"
+    description = "Softbear 2019-2019"
     githubUsername = "soft-bear"
     accent = "red"
     showBorder = true
-    backgroundColor = "green"
-    font = "Raleway" # should match the name on Google Fonts!
+    backgroundColor = "white"
+    font = "Sawarabi+Gothic" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
@@ -45,16 +45,11 @@ canonifyurls = true
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:ban@natori.com"
-    name = "envelope-o"
-    weight = 6
-
-[[menu.icon]]
     url = "https://github.com/soft-bear/"
     name = "github"
-    weight = 2
+    weight = 1
 
 [[menu.icon]]
     url = "https://twitter.com/yawarakakuma3/"
     name = "twitter"
-    weight = 3
+    weight = 2
