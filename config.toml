@@ -6,6 +6,7 @@ disqusShortname = "Softbear" # delete this to disable disqus comments
 googleAnalytics = ""
 publishDir = "docs"
 canonifyurls = true
+disqusShortname = "softbear.disqus.com"
 
 
 [params]
