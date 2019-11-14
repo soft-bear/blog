@@ -1,5 +1,5 @@
-hugo new post/$1.md
+now=`date "+%Y%m%d%H%M%S"`
 
-cd content/post/
+hugo new post/$now.md
 
-code $1.md
+code content/post/$now.md

@@ -1,6 +1,7 @@
 html, body {
     height: 100%;
-    background-image: '../river.jpg';
+    background-color: white;
+    /*background-image: url("../river.jpg");*/
 }
 
 body {
