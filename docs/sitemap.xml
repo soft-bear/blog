@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://soft-bear.github.io/blog/tags/blog/</loc>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://soft-bear.github.io/blog/</loc>
-    <lastmod>2019-11-14T13:24:26+09:00</lastmod>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://soft-bear.github.io/blog/post/</loc>
-    <lastmod>2019-11-14T13:24:26+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://soft-bear.github.io/blog/post/test/test/</loc>
-    <lastmod>2019-11-14T13:24:26+09:00</lastmod>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>https://soft-bear.github.io/blog/tags/%E5%A4%A7%E8%A5%BF/</loc>
+    <loc>https://soft-bear.github.io/blog/post/firstblog/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://soft-bear.github.io/blog/post/test/test2/</loc>
+    <loc>https://soft-bear.github.io/blog/tags/%E9%9B%91%E8%A8%98/</loc>
     <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url>
   

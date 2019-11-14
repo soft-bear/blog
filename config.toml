@@ -17,7 +17,7 @@ canonifyurls = true
     font = "Sawarabi+Gothic" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "Bash", "C++", "Python", "Intel x86 Assembly"]
 
 [[menu.main]]
     url = "/"

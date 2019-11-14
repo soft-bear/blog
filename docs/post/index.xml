@@ -6,27 +6,18 @@
     <description>Recent content in Posts on Mikumiku</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 14 Nov 2019 13:24:26 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://soft-bear.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>https://soft-bear.github.io/blog/post/test/test/</link>
-      <pubDate>Thu, 14 Nov 2019 13:24:26 +0900</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/post/test/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>日本一</title>
-      <link>https://soft-bear.github.io/blog/post/test/test2/</link>
+      <title>はじめてのgithub.io</title>
+      <link>https://soft-bear.github.io/blog/post/firstblog/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://soft-bear.github.io/blog/post/test/test2/</guid>
-      <description>マリカと壺おじありがとうございました🚗³₃🏺✨あのハンバーグ食べ終わったよー(๑´ڡ๑)ご馳走様でした！！！！！！今日も今日とてみんなと遊べて楽しかったよーう！！！！今日は予防接種してきたからゆっくりするね(✽︎´ཫ✽︎)ねむねむするだ～</description>
+      <guid>https://soft-bear.github.io/blog/post/firstblog/</guid>
+      <description>この記事を書くまでに4時間くらいかかりました．とても大変でした．</description>
     </item>
     
   </channel>
