@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://soft-bear.github.io/blog/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://soft-bear.github.io/blog/categories/</loc>
   </url>
   
