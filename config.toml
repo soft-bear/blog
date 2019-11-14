@@ -2,12 +2,10 @@ baseURL = "https://soft-bear.github.io/blog"
 languageCode = "ja-jp"
 title = "Mikumiku"
 theme = "minimal"
-disqusShortname = "Softbear" # delete this to disable disqus comments
+disqusShortname = "softbear.disqus.com" # delete this to disable disqus comments
 googleAnalytics = ""
 publishDir = "docs"
 canonifyurls = true
-disqusShortname = "softbear.disqus.com"
-
 
 [params]
     author = "Softbear"
