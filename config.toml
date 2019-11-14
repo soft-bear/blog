@@ -1,9 +1,10 @@
-baseURL = "http://example.com/"
+baseURL = "soft-bear.github.io"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "public"
 
 [params]
     author = "Calin Tataru"
