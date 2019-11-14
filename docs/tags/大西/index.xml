@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mikumiku</title>
-    <link>https://soft-bear.github.io/blog/post/</link>
-    <description>Recent content in Posts on Mikumiku</description>
+    <title>大西 on Mikumiku</title>
+    <link>https://soft-bear.github.io/blog/tags/%E5%A4%A7%E8%A5%BF/</link>
+    <description>Recent content in 大西 on Mikumiku</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 14 Nov 2019 13:24:26 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://soft-bear.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://soft-bear.github.io/blog/tags/%E5%A4%A7%E8%A5%BF/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>https://soft-bear.github.io/blog/post/test/test/</link>
-      <pubDate>Thu, 14 Nov 2019 13:24:26 +0900</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/post/test/test/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>日本一</title>

@@ -18,11 +18,22 @@
   </url>
   
   <url>
-    <loc>https://soft-bear.github.io/blog/categories/</loc>
+    <loc>https://soft-bear.github.io/blog/tags/</loc>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://soft-bear.github.io/blog/tags/</loc>
+    <loc>https://soft-bear.github.io/blog/tags/%E5%A4%A7%E8%A5%BF/</loc>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soft-bear.github.io/blog/post/test/test2/</loc>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soft-bear.github.io/blog/categories/</loc>
   </url>
   
 </urlset>
