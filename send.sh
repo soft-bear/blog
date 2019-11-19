@@ -1,11 +1,5 @@
 #!/bin/sh
 
-now=`date "+%Y%m%d%H%M%S"`
-
-hugo new post/$now.md
-
-code C:/Users/17411/blog/content/post/$now.md
-
 hugo
 
 cd C:/Users/17411/blog
