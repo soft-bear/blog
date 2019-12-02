@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Forest of Bear</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://soft-bear.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20191202172757</title>
+      <link>https://soft-bear.github.io/blog/post/20191202172757/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://soft-bear.github.io/blog/post/20191202172757/</guid>
+      <description>数式のテスト
+$ 1 = 1 $
+$$ 1 = 1 $$
+[ 1 = 1 ]
+\begin{align} 1 = 1 \end{align}</description>
+    </item>
     
     <item>
       <title>20191129220537</title>
