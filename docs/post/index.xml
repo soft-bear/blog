@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Forest of Bear</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://soft-bear.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20191205221331</title>
+      <link>https://soft-bear.github.io/blog/post/20191205221331/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://soft-bear.github.io/blog/post/20191205221331/</guid>
+      <description>レポートやらないとまずいことに気が付いてしまった．レポートやるぞやるぞ(やらないやーつ)</description>
+    </item>
     
     <item>
       <title>20191202172757</title>
@@ -34,6 +43,15 @@ $$ 1 = 1 $$
 これは ( 1 = 1 ) です
 \begin{enumerate} 1 = 1 \end{enumerate}
 \(\boldsymbol{v_0}\)</description>
+    </item>
+    
+    <item>
+      <title>20191202173513</title>
+      <link>https://soft-bear.github.io/blog/post/20191202173513/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://soft-bear.github.io/blog/post/20191202173513/</guid>
+      <description>これは\(\frac{1}{2}\)</description>
     </item>
     
     <item>

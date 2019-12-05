@@ -2,7 +2,7 @@
 
 hugo
 
-cd C:/Users/17411/blog
+cd ~/blog
 
 git add -A
 
