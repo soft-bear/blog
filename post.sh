@@ -5,5 +5,3 @@ hugo new post/$now.md
 code content/post/$now.md &
 
 wait
-
-hugo build
