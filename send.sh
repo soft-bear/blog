@@ -1,8 +1,8 @@
 #!/bin/sh
 
-hugo
-
 cd ~/blog
+
+hugo
 
 git add -A
 
