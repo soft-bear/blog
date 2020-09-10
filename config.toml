@@ -6,8 +6,6 @@ theme = "geekblog"
 DefaultContentLanguage = "jp"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-font = "Sawarabi+Gothic" # should match the name on Google Fonts!
-
 [author]
     name = "Softbear"
     abstract = "I'm a software engineer and a coffee enthusiast in Japan. My primary interest lies in the area of natural language processing."
