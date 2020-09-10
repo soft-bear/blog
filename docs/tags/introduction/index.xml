@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>行動分析学</title>
-    <link>https://soft-bear.github.io/blog/</link>
-    <description>Recent content on 行動分析学</description>
+    <title>introduction on 行動分析学</title>
+    <link>https://soft-bear.github.io/blog/tags/introduction/</link>
+    <description>Recent content in introduction on 行動分析学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Thu, 10 Sep 2020 20:24:56 +0900</lastBuildDate>
     
-	<atom:link href="https://soft-bear.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://soft-bear.github.io/blog/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://soft-bear.github.io/blog/post/introduction/</guid>
       <description>Abstract 自己紹介
 まとめ よろしくお願いします。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://soft-bear.github.io/blog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/about/</guid>
-      <description>My name is Softbear. Please see this portfolio.
-twitter scrapbox qrunch hatena</description>
     </item>
     
   </channel>

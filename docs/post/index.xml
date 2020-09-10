@@ -1,57 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on メモ代わりの何か</title>
+    <title>Posts on 行動分析学</title>
     <link>https://soft-bear.github.io/blog/post/</link>
-    <description>Recent content in Posts on メモ代わりの何か</description>
+    <description>Recent content in Posts on 行動分析学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Thu, 10 Sep 2020 16:53:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 20:24:56 +0900</lastBuildDate>
     
 	<atom:link href="https://soft-bear.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ユーザが倒せない2</title>
-      <link>https://soft-bear.github.io/blog/post/%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%8C%E5%80%92%E3%81%9B%E3%81%AA%E3%81%842/</link>
-      <pubDate>Thu, 10 Sep 2020 16:53:09 +0900</pubDate>
+      <title>Introduction</title>
+      <link>https://soft-bear.github.io/blog/post/introduction/</link>
+      <pubDate>Thu, 10 Sep 2020 20:24:56 +0900</pubDate>
       
-      <guid>https://soft-bear.github.io/blog/post/%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%8C%E5%80%92%E3%81%9B%E3%81%AA%E3%81%842/</guid>
-      <description>Abstract まとめ </description>
-    </item>
-    
-    <item>
-      <title>ユーザが倒せない</title>
-      <link>https://soft-bear.github.io/blog/post/%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%8C%E5%80%92%E3%81%9B%E3%81%AA%E3%81%84/</link>
-      <pubDate>Thu, 10 Sep 2020 16:49:06 +0900</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/post/%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%8C%E5%80%92%E3%81%9B%E3%81%AA%E3%81%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>20191202172757</title>
-      <link>https://soft-bear.github.io/blog/post/20191202172757/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/post/20191202172757/</guid>
-      <description>数式のテスト
-$ 1 = 1 $
-$$ 1 = 1 $$
-[ 1 = 1 ]
-\begin{align} 1 = 1 \end{align}</description>
-    </item>
-    
-    <item>
-      <title>20191202173048</title>
-      <link>https://soft-bear.github.io/blog/post/20191202173048/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/post/20191202173048/</guid>
-      <description>これは何
-これは ( 1 = 1 ) です
-\begin{enumerate} 1 = 1 \end{enumerate}
-\(\boldsymbol{v_0}\)</description>
+      <guid>https://soft-bear.github.io/blog/post/introduction/</guid>
+      <description>Abstract 自己紹介
+まとめ よろしくお願いします。</description>
     </item>
     
   </channel>
