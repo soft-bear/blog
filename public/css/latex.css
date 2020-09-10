@@ -10,9 +10,12 @@
   font-style: normal;
   font-weight: normal;
   font-display: swap;
-  src: url('./fonts/LM-regular.woff2') format('woff2'),
+  /*src: url('./fonts/LM-regular.woff2') format('woff2'),
     url('./fonts/LM-regular.woff') format('woff'),
-    url('./fonts/LM-regular.ttf') format('truetype');
+    url('./fonts/LM-regular.ttf') format('truetype'); */
+  src: url('./fonts/SawarabiMincho-Regular.woff2') format('woff2'),
+    url('./fonts/SawarabiMincho-Regular.woff') format('woff'),
+    url('./fonts/SawarabiMincho-Regular.ttf') format('truetype');
 }
 
 @font-face {

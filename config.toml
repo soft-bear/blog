@@ -8,7 +8,7 @@ enableInlineShortcodes = true
 
 [author]
     name = "Softbear"
-    abstract = "I'm a software engineer and a coffee enthusiast in Japan. My primary interest lies in the area of natural language processing."
+    abstract = "I'm a software engineer in Japan. My primary interest lies in the area of cryptography."
 
 [taxonomies]
 category = "categories"

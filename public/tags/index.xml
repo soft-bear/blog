@@ -6,28 +6,10 @@
     <description>Recent content in Tags on メモ代わりの何か</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://soft-bear.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Diary</title>
-      <link>https://soft-bear.github.io/blog/tags/diary/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/tags/diary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>日記</title>
-      <link>https://soft-bear.github.io/blog/tags/%E6%97%A5%E8%A8%98/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/tags/%E6%97%A5%E8%A8%98/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>テスト</title>
@@ -35,33 +17,6 @@
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://soft-bear.github.io/blog/tags/%E3%83%86%E3%82%B9%E3%83%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VSCode</title>
-      <link>https://soft-bear.github.io/blog/tags/vscode/</link>
-      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/tags/vscode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://soft-bear.github.io/blog/tags/blog/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>雑記</title>
-      <link>https://soft-bear.github.io/blog/tags/%E9%9B%91%E8%A8%98/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://soft-bear.github.io/blog/tags/%E9%9B%91%E8%A8%98/</guid>
       <description></description>
     </item>
     
