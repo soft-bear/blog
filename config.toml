@@ -2,10 +2,10 @@ baseURL = "https://soft-bear.github.io/blog"
 languageCode = "jp"
 paginate = 10
 title = "メモ代わりの何か"
-theme = "geekblog"
+theme = "tex"
 DefaultContentLanguage = "jp"
 enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
+
 [author]
     name = "Softbear"
     abstract = "I'm a software engineer and a coffee enthusiast in Japan. My primary interest lies in the area of natural language processing."
