@@ -5,6 +5,7 @@ title = "メモ代わりの何か"
 theme = "tex"
 DefaultContentLanguage = "jp"
 enableInlineShortcodes = true
+publishDir = "docs"
 
 [author]
     name = "Softbear"
