@@ -6,13 +6,13 @@ theme = "geekblog"
 DefaultContentLanguage = "jp"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-
+font = "Sawarabi+Gothic" # should match the name on Google Fonts!
 
 [author]
     name = "Softbear"
-    githubUsername = "soft-bear"
-    backgroundImages = "river.jpg"
-    font = "Sawarabi+Gothic" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "Bash", "C++", "Python", "Intel x86 Assembly"]
+    abstract = "I'm a software engineer and a coffee enthusiast in Japan. My primary interest lies in the area of natural language processing."
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
