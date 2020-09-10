@@ -1,50 +1,18 @@
 baseURL = "https://soft-bear.github.io/blog"
-languageCode = "ja-jp"
-title = "Forest of Bear"
-theme = "minimal"
-disqusShortname = "softbear" # delete this to disable disqus comments
-googleAnalytics = ""
-publishDir = "docs"
-canonifyurls = true
+languageCode = "jp"
+paginate = 10
+title = "メモ代わりの何か"
+theme = "tex"
+DefaultContentLanguage = "jp"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
 
-[params]
-    author = "Softbear"
-    description = "Believe my way! Go ahead!"
+
+[author]
+    name = "Softbear"
     githubUsername = "soft-bear"
-    accent = "green"
-    showBorder = true
-    #backgroundColor = "white"
     backgroundImages = "river.jpg"
     font = "Sawarabi+Gothic" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "Bash", "C++", "Python", "Intel x86 Assembly"]
-
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
-
-[[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 2
-
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 3
-
-# Social icons to be shown on the right-hand side of the navigation bar.
-# The "name" field should match the name of the icon in Font Awesome.
-# The list of available icons can be found at http://fontawesome.io/icons.
-
-[[menu.icon]]
-    url = "https://github.com/soft-bear/"
-    name = "github"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://twitter.com/yawarakakuma3/"
-    name = "twitter"
-    weight = 2

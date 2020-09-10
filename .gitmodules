@@ -1,0 +1,6 @@
+[submodule "themes/geekblog"]
+	path = themes/geekblog
+	url = https://github.com/xoxys/hugo-geekblog
+[submodule "themes/tex"]
+	path = themes/tex
+	url = https://github.com/7ma7X/HugoTeX
