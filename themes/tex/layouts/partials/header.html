@@ -1,9 +1,9 @@
-
+{{ partial "add_mathjax.html" . }}
 {{ if .IsHome }}
 {{ if .Site.Params.homeTitle }}
-  {{ $.Scratch.Set "title" .Site.Params.homeTitle }}
+{{ $.Scratch.Set "title" .Site.Params.homeTitle }}
 {{ else }}
-  {{ $.Scratch.Set "title" .Site.Title }}
+{{ $.Scratch.Set "title" .Site.Title }}
 {{ end }}
 {{ else }}
 {{ $.Scratch.Set "title" .Title }}
@@ -17,21 +17,21 @@
     <div class="container">
       <div class="{{ .Type }}-heading">
         {{ if eq .Type "list" }}
-          <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+        <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
         {{ else }}
-          <h1>{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
-          {{ if .IsHome }}
-            <p class="author">{{ with .Site.Author.name }}{{.}}{{ else }}<br/>{{ end }}</p>
+        <h1>{{ with $title }}{{.}}{{ else }}<br />{{ end }}</h1>
+        {{ if .IsHome }}
+        <p class="author">{{ with .Site.Author.name }}{{.}}{{ else }}<br />{{ end }}</p>
 
-            {{ if .Site.Author.abstract }}
-              <div class="abstract">
-                <h5>Abstract</h5>
-                <p>
-                  {{ .Site.Author.abstract }}
-                </p>
-              </div>
-            {{ end }}
-          {{ end }}
+        {{ if .Site.Author.abstract }}
+        <div class="abstract">
+          <h5>Abstract</h5>
+          <p>
+            {{ .Site.Author.abstract }}
+          </p>
+        </div>
+        {{ end }}
+        {{ end }}
         {{ end }}
       </div>
     </div>
