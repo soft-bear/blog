@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on メモ代わりの何か</title>
+    <link>https://soft-bear.github.io/blog/tags/test/</link>
+    <description>Recent content in Test on メモ代わりの何か</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Thu, 10 Sep 2020 16:53:09 +0900</lastBuildDate>
+    
+	<atom:link href="https://soft-bear.github.io/blog/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ユーザが倒せない2</title>
+      <link>https://soft-bear.github.io/blog/post/%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%8C%E5%80%92%E3%81%9B%E3%81%AA%E3%81%842/</link>
+      <pubDate>Thu, 10 Sep 2020 16:53:09 +0900</pubDate>
+      
+      <guid>https://soft-bear.github.io/blog/post/%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%8C%E5%80%92%E3%81%9B%E3%81%AA%E3%81%842/</guid>
+      <description>Abstract まとめ </description>
+    </item>
+    
+  </channel>
+</rss>
