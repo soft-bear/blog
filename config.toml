@@ -1,14 +1,14 @@
 baseURL = "https://soft-bear.github.io/blog/"
 languageCode = "jp"
 paginate = 10
-title = "メモ代わりの何か"
+title = "行動分析学"
 theme = "tex"
 DefaultContentLanguage = "jp"
 enableInlineShortcodes = true
 publishDir = "docs"
 
 [author]
-    name = "Softbear"
+    name = "softbear"
     abstract = "I'm a software engineer in Japan. My primary interest lies in the area of cryptography."
 
 [taxonomies]

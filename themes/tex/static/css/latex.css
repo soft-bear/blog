@@ -71,7 +71,7 @@ dd {
 
 /* Make default font-size 1rem and add smooth scrolling to anchors */
 html {
-  font-size: 1rem;
+  font-size: 1.2rem;
   scroll-behavior: smooth;
 }
 
@@ -149,7 +149,7 @@ pre,
 kbd {
   font-family: Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New',
     monospace;
-  font-size: 85%;
+  font-size: 95%;
 }
 pre {
   padding: 1rem 1.4rem;
@@ -320,7 +320,7 @@ dl dd {
 
 /* Heading typography */
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   line-height: 3.25rem;
   margin-bottom: 1.625rem;
 }
@@ -380,4 +380,8 @@ h4,
 h5,
 h6 {
   margin-bottom: 0.8rem;
+}
+
+.MathJax {
+font-size: 1.1em;
 }

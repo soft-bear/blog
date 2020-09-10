@@ -21,13 +21,16 @@
         {{ else }}
         <h1>{{ with $title }}{{.}}{{ else }}<br />{{ end }}</h1>
         {{ if .IsHome }}
-        <p class="author">{{ with .Site.Author.name }}{{.}}{{ else }}<br />{{ end }}</p>
+        <h4><p class="author">{{ with .Site.Author.name }}{{.}}{{ else }}<br />{{ end }}</p></h4>
 
         {{ if .Site.Author.abstract }}
         <div class="abstract">
           <h5>Abstract</h5>
           <p>
             {{ .Site.Author.abstract }}
+          </p>
+          <p>
+            <a href="https://soft-bear.github.io/">more</a>
           </p>
         </div>
         {{ end }}
