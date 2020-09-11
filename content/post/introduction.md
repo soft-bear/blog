@@ -7,8 +7,9 @@ tags: ["introduction"]
 
 # Abstract
 
-自己紹介
-
+$$
+ユーザ = \dfrac{てすと}{結果}
+$$
 # まとめ
 
 よろしくお願いします。

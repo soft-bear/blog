@@ -6,6 +6,7 @@ theme = "tex"
 DefaultContentLanguage = "jp"
 enableInlineShortcodes = true
 publishDir = "docs"
+googleAnalytics = "UA-177760199-1"
 
 [author]
     name = "softbear"
